@@ -1,0 +1,10 @@
+* London
+  * Chelsea
+  * Arsenal
+  * Spurs
+* Manchester
+  * United
+  * City
+* Merseyside
+  * Liverpool
+  * Everton
