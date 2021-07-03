@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* London
+  * Chelsea
+  * Arsenal
+  * Spurs
+* Manchester
+  * United
+  * City
+* Merseyside
+  * Liverpool
+  * Everton
